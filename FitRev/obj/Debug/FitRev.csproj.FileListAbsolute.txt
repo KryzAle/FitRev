@@ -1,77 +1,134 @@
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\FitRev.dll.config
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\FitRev.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\FitRev.pdb
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\csc.exe
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\csc.exe.config
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\csc.rsp
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\csi.exe
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\csi.exe.config
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\csi.rsp
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\Microsoft.Win32.Primitives.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.AppContext.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Collections.Immutable.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Console.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Diagnostics.Process.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.IO.Compression.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.IO.FileSystem.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.IO.Pipes.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Reflection.Metadata.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Security.AccessControl.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Security.Claims.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Security.Cryptography.Encoding.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Security.Cryptography.Primitives.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Security.Principal.Windows.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Threading.Thread.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.ValueTuple.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Xml.ReaderWriter.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Xml.XmlDocument.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Xml.XPath.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\System.Xml.XPath.XDocument.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\vbc.exe
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\vbc.exe.config
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\vbc.rsp
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\VBCSCompiler.exe
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\roslyn\VBCSCompiler.exe.config
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\Microsoft.Web.Infrastructure.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\System.Web.Helpers.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\System.Web.Mvc.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\System.Web.Razor.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\System.Web.Webpages.Deployment.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\System.Web.Webpages.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\System.Web.Webpages.Razor.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\System.Web.Razor.xml
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\System.Web.Webpages.xml
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\System.Web.Webpages.Deployment.xml
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\System.Web.Webpages.Razor.xml
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\System.Web.Helpers.xml
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\System.Web.Mvc.xml
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\es\System.Web.Razor.resources.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\es\System.Web.Webpages.resources.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\es\System.Web.Webpages.Deployment.resources.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\es\System.Web.Webpages.Razor.resources.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\es\System.Web.Helpers.resources.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\bin\es\System.Web.Mvc.resources.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\obj\Debug\FitRev.csproj.CoreCompileInputs.cache
-D:\Developer\Fit Rev\Fit Rev\FitRev\obj\Debug\FitRev.csproj.CopyComplete
-D:\Developer\Fit Rev\Fit Rev\FitRev\obj\Debug\FitRev.dll
-D:\Developer\Fit Rev\Fit Rev\FitRev\obj\Debug\FitRev.pdb
-D:\Developer\Fit Rev\Fit Rev\FitRev\obj\Debug\FitRev.csprojAssemblyReference.cache
+D:\Developer\FitRev\FitRev\bin\ApplicationInsights.config
+D:\Developer\FitRev\FitRev\bin\FitRev.dll.config
+D:\Developer\FitRev\FitRev\bin\FitRev.dll
+D:\Developer\FitRev\FitRev\bin\FitRev.pdb
+D:\Developer\FitRev\FitRev\bin\roslyn\csc.exe
+D:\Developer\FitRev\FitRev\bin\roslyn\csc.exe.config
+D:\Developer\FitRev\FitRev\bin\roslyn\csc.rsp
+D:\Developer\FitRev\FitRev\bin\roslyn\csi.exe
+D:\Developer\FitRev\FitRev\bin\roslyn\csi.exe.config
+D:\Developer\FitRev\FitRev\bin\roslyn\csi.rsp
+D:\Developer\FitRev\FitRev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Developer\FitRev\FitRev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Developer\FitRev\FitRev\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.AppContext.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Collections.Immutable.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Console.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Diagnostics.Process.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.IO.Compression.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.IO.FileSystem.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.IO.Pipes.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Reflection.Metadata.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Security.AccessControl.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Security.Claims.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Threading.Thread.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.ValueTuple.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Xml.XPath.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Developer\FitRev\FitRev\bin\roslyn\vbc.exe
+D:\Developer\FitRev\FitRev\bin\roslyn\vbc.exe.config
+D:\Developer\FitRev\FitRev\bin\roslyn\vbc.rsp
+D:\Developer\FitRev\FitRev\bin\roslyn\VBCSCompiler.exe
+D:\Developer\FitRev\FitRev\bin\roslyn\VBCSCompiler.exe.config
+D:\Developer\FitRev\FitRev\bin\Antlr3.Runtime.dll
+D:\Developer\FitRev\FitRev\bin\EntityFramework.dll
+D:\Developer\FitRev\FitRev\bin\EntityFramework.SqlServer.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.AI.DependencyCollector.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.AI.Web.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.AI.WindowsServer.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.ApplicationInsights.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.Google.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Developer\FitRev\FitRev\bin\Microsoft.Web.Infrastructure.dll
+D:\Developer\FitRev\FitRev\bin\Newtonsoft.Json.dll
+D:\Developer\FitRev\FitRev\bin\Owin.dll
+D:\Developer\FitRev\FitRev\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Developer\FitRev\FitRev\bin\System.Web.Helpers.dll
+D:\Developer\FitRev\FitRev\bin\System.Web.Mvc.dll
+D:\Developer\FitRev\FitRev\bin\System.Web.Optimization.dll
+D:\Developer\FitRev\FitRev\bin\System.Web.Razor.dll
+D:\Developer\FitRev\FitRev\bin\System.Web.WebPages.Deployment.dll
+D:\Developer\FitRev\FitRev\bin\System.Web.WebPages.dll
+D:\Developer\FitRev\FitRev\bin\System.Web.WebPages.Razor.dll
+D:\Developer\FitRev\FitRev\bin\WebGrease.dll
+D:\Developer\FitRev\FitRev\bin\System.Web.Helpers.xml
+D:\Developer\FitRev\FitRev\bin\System.Web.Mvc.xml
+D:\Developer\FitRev\FitRev\bin\System.Web.Optimization.xml
+D:\Developer\FitRev\FitRev\bin\System.Web.Razor.xml
+D:\Developer\FitRev\FitRev\bin\System.Web.WebPages.xml
+D:\Developer\FitRev\FitRev\bin\System.Web.WebPages.Deployment.xml
+D:\Developer\FitRev\FitRev\bin\System.Web.WebPages.Razor.xml
+D:\Developer\FitRev\FitRev\bin\Newtonsoft.Json.xml
+D:\Developer\FitRev\FitRev\bin\Antlr3.Runtime.pdb
+D:\Developer\FitRev\FitRev\bin\EntityFramework.xml
+D:\Developer\FitRev\FitRev\bin\EntityFramework.SqlServer.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.Google.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Developer\FitRev\FitRev\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.AI.DependencyCollector.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.AI.WindowsServer.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.AI.Web.xml
+D:\Developer\FitRev\FitRev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Developer\FitRev\FitRev\bin\es\System.Web.Helpers.resources.dll
+D:\Developer\FitRev\FitRev\bin\es\System.Web.Mvc.resources.dll
+D:\Developer\FitRev\FitRev\bin\es\System.Web.Optimization.resources.dll
+D:\Developer\FitRev\FitRev\bin\es\System.Web.Razor.resources.dll
+D:\Developer\FitRev\FitRev\bin\es\System.Web.WebPages.resources.dll
+D:\Developer\FitRev\FitRev\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Developer\FitRev\FitRev\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Developer\FitRev\FitRev\bin\es\EntityFramework.resources.dll
+D:\Developer\FitRev\FitRev\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Developer\FitRev\FitRev\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Developer\FitRev\FitRev\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Developer\FitRev\FitRev\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Developer\FitRev\FitRev\obj\Debug\FitRev.csprojAssemblyReference.cache
+D:\Developer\FitRev\FitRev\obj\Debug\FitRev.csproj.CoreCompileInputs.cache
+D:\Developer\FitRev\FitRev\obj\Debug\FitRev.csproj.CopyComplete
+D:\Developer\FitRev\FitRev\obj\Debug\FitRev.dll
+D:\Developer\FitRev\FitRev\obj\Debug\FitRev.pdb
